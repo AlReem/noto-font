@@ -94,7 +94,14 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+@font-face {
+  font-family: 'Noto Sans Malayalam';
+  src: url('fonts/NotoSansMalayalam-Regular.eot?') format('eot'), url('fonts/NotoSansMalayalam-Regular.woff') format('woff'), url('fonts/NotoSansMalayalam-Regular.ttf') format('truetype');
+}
 
+  body {
+    font-family: 'Noto Sans Malayalam';
+  }
 
 
 
